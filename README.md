@@ -10,13 +10,14 @@ springboot application pattern
 
 
 ### Post request localhost:8080/api/v1/registration
-Body
+Body  
 {
-    "firstName": "yuxiang",
-    "lastName": "li",
-    "email": "yuxli@qq.com",
-    "password": "password"
-}
+    "firstName": "yuxiang",  
+    "lastName": "li",  
+    "email": "yuxli@qq.com",  
+    "password": "password"  
+}  
+
 first time:  
 token number
 
